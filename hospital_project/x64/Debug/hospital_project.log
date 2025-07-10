@@ -1,0 +1,18 @@
+﻿  Article.cpp
+  Date.cpp
+  department.cpp
+  doctor.cpp
+  Employee.cpp
+  hospital.cpp
+  main.cpp
+  nurse.cpp
+  nurse.h
+  Patients.cpp
+  Person.cpp
+  ResearchCenter.cpp
+  ResearchDoc.cpp
+  Researcher.cpp
+  Visit.cpp
+  Generating Code...
+x64\Debug\nurse.obj : warning LNK4042: object specified more than once; extras ignored
+  hospital_project.vcxproj -> C:\hospital project copy\hospital_project\x64\Debug\hospital_project.exe
